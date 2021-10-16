@@ -1,13 +1,11 @@
 {
-  "name": "react-starter",
-  "version": "0.1.0",
-  "private": true,
+  "name": "mymedicaid",
+  "version": "1.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "export": "yarn build && next export"
+    "lint": "next lint"
   },
   "dependencies": {
     "@auth0/nextjs-auth0": "^1.5.0",
