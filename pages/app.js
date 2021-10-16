@@ -5,8 +5,8 @@ export default function app() {
   if (user) {
     return (
       <>
-        <h1 className="mb-2 mb-8 text-5xl font-extrabold leading-none md:pl-2">
-          Hello,
+        <h1 className="m-6 text-4xl font-extrabold leading-none md:pl-2">
+          Hello,{" "}
           <span className="inline-block text-deep-purple-accent-400">
             {user.name}
           </span>
