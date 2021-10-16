@@ -1,2 +1,7 @@
-# client
-A web client using NextJS and TailwindCSS
+# React Starter
+
+Next.JS, Tailwindcss, Auth0
+
+## Commands
+
+check package.json
