@@ -9,7 +9,7 @@ const TitleHeader = () => {
         Hi, {user.name}
         <br className="hidden md:block" />
         Start managing your{" "}
-        <span className="inline-block text-deep-red-accent-400">
+        <span className="inline-block text-deep-purple-accent-400">
           patients
         </span>
       </h2>
@@ -20,7 +20,7 @@ const TitleHeader = () => {
       Hey, login to
       <br className="hidden md:block" />
       Start managing your{" "}
-      <span className="inline-block text-deep-red-accent-400">patients</span>
+      <span className="inline-block text-deep-purple-accent-400">patients</span>
     </h2>
   );
 };
@@ -31,7 +31,7 @@ const Buttons = () => {
     return (
       <div className="flex items-center">
         <Link href="/app">
-          <a className="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-red-accent-400 hover:bg-deep-red-accent-700 focus:shadow-outline focus:outline-none">
+          <a className="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none">
             Get started
           </a>
         </Link>
@@ -41,14 +41,14 @@ const Buttons = () => {
   return (
     <div className="flex items-center">
       <Link href="/api/auth/login">
-        <a className="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-red-accent-400 hover:bg-deep-red-accent-700 focus:shadow-outline focus:outline-none">
+        <a className="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none">
           Login
         </a>
       </Link>
       <a
         href="https://devpost.com/software/medicaid-3f2er5"
         aria-label=""
-        className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-red-accent-400 hover:text-deep-red-800"
+        className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
       >
         Learn more
       </a>
@@ -64,9 +64,9 @@ export const Hero = () => {
           <div className="max-w-xl mb-6">
             <TitleHeader />
             <p className="text-base text-gray-700 md:text-lg">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae. explicabo.
+              We make it easy to manage your patients' medical records,
+              synchronizing the data with your colleagues and generating
+              artificial intelligence based diagnoses.
             </p>
           </div>
           <Buttons />
@@ -74,8 +74,8 @@ export const Hero = () => {
       </div>
       <div className="flex justify-center h-full overflow-hidden lg:w-2/3 xl:w-1/2 lg:absolute lg:justify-start lg:bottom-0 lg:right-0 lg:items-end">
         <img
-          src="https://kitwind.io/assets/kometa/full-browser.png"
-          className="object-cover object-top w-full h-64 max-w-xl -mb-16 rounded shadow-2xl lg:ml-64 xl:ml-8 lg:-mb-24 xl:-mb-28 lg:h-auto lg:max-w-screen-md"
+          src="https://cdn.discordapp.com/attachments/897675233555787776/898623104325152798/medicaid_banner.png"
+          className="object-cover object-center w-full h-64 max-w-xl mb-6 rounded shadow-2xl lg:ml-64 xl:ml-8 lg:mb-6 xl:mb-6 lg:h-auto lg:max-w-screen-md"
           alt=""
         />
       </div>
