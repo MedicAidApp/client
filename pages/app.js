@@ -1,5 +1,6 @@
 import { useUser } from "@auth0/nextjs-auth0";
 import { Stats } from "../components/Stats";
+import { Patients } from "../components/Patients";
 
 export default function app() {
   const { user } = useUser();
@@ -13,6 +14,7 @@ export default function app() {
           </span>
         </h1>
         <Stats />
+        <Patients />
       </div>
     );
   }
