@@ -10,7 +10,7 @@ export const AddPatient = () => {
     formState: { errors },
   } = useForm();
   const [symptoms, setSymptoms] = useState(null);
-  const onSubmit = (data) => console.log(JSON.stringify({
+  const onSubmit = (data) => localStorage.setItem(Math.floor(Math.random() * (999 - 1)) + 1,JSON.stringify({
     "email":data.email,
     "firstName":data.firstName,
     "lastName":data.LastName,
