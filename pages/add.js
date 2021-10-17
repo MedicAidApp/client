@@ -1,12 +1,13 @@
 import { useUser } from "@auth0/nextjs-auth0";
+import { AddPatient } from "../components/AddPatient";
 
 export default function add() {
-  const { user } = useUser();
+  const { user } = {"user":"user"};
 
   if (user) {
     return (
       <>
-        <h1>Hello {user.name}</h1>
+        <AddPatient />
       </>
     );
   }

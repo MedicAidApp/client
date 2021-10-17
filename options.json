@@ -1,0 +1,254 @@
+[
+  {
+    "value": 10,
+    "label": "Abdominal pain"
+  },
+  {
+    "value": 238,
+    "label": "Anxiety"
+  },
+  {
+    "value": 104,
+    "label": "Back pain"
+  },
+  {
+    "value": 75,
+    "label": "Burning eyes"
+  },
+  {
+    "value": 46,
+    "label": "Burning in the throat"
+  },
+  {
+    "value": 170,
+    "label": "Cheek swelling"
+  },
+  {
+    "value": 17,
+    "label": "Chest pain"
+  },
+  {
+    "value": 31,
+    "label": "Chest tightness"
+  },
+  {
+    "value": 175,
+    "label": "Chills"
+  },
+  {
+    "value": 139,
+    "label": "Cold sweats"
+  },
+  {
+    "value": 15,
+    "label": "Cough"
+  },
+  {
+    "value": 207,
+    "label": "Dizziness"
+  },
+  {
+    "value": 244,
+    "label": "Drooping eyelid"
+  },
+  {
+    "value": 273,
+    "label": "Dry eyes"
+  },
+  {
+    "value": 87,
+    "label": "Earache"
+  },
+  {
+    "value": 92,
+    "label": "Early satiety"
+  },
+  {
+    "value": 287,
+    "label": "Eye pain"
+  },
+  {
+    "value": 33,
+    "label": "Eye redness"
+  },
+  {
+    "value": 153,
+    "label": "Fast, deepened breathing"
+  },
+  {
+    "value": 76,
+    "label": "Feeling of foreign body in the eye"
+  },
+  {
+    "value": 11,
+    "label": "Fever"
+  },
+  {
+    "value": 57,
+    "label": "Going black before the eyes"
+  },
+  {
+    "value": 9,
+    "label": "Headache"
+  },
+  {
+    "value": 45,
+    "label": "Heartburn"
+  },
+  {
+    "value": 122,
+    "label": "Hiccups"
+  },
+  {
+    "value": 149,
+    "label": "Hot flushes"
+  },
+  {
+    "value": 40,
+    "label": "Increased thirst"
+  },
+  {
+    "value": 73,
+    "label": "Itching eyes"
+  },
+  {
+    "value": 96,
+    "label": "Itching in the nose"
+  },
+  {
+    "value": 35,
+    "label": "Lip swelling"
+  },
+  {
+    "value": 235,
+    "label": "Memory gap"
+  },
+  {
+    "value": 112,
+    "label": "Menstruation disorder"
+  },
+  {
+    "value": 123,
+    "label": "Missed period"
+  },
+  {
+    "value": 44,
+    "label": "Nausea"
+  },
+  {
+    "value": 136,
+    "label": "Neck pain"
+  },
+  {
+    "value": 114,
+    "label": "Nervousness"
+  },
+  {
+    "value": 133,
+    "label": "Night cough"
+  },
+  {
+    "value": 12,
+    "label": "Pain in the limbs"
+  },
+  {
+    "value": 203,
+    "label": "Pain on swallowing"
+  },
+  {
+    "value": 37,
+    "label": "Palpitations"
+  },
+  {
+    "value": 140,
+    "label": "Paralysis"
+  },
+  {
+    "value": 54,
+    "label": "Reduced appetite"
+  },
+  {
+    "value": 14,
+    "label": "Runny nose"
+  },
+  {
+    "value": 29,
+    "label": "Shortness of breath"
+  },
+  {
+    "value": 124,
+    "label": "Skin rash"
+  },
+  {
+    "value": 52,
+    "label": "Sleeplessness"
+  },
+  {
+    "value": 95,
+    "label": "Sneezing"
+  },
+  {
+    "value": 13,
+    "label": "Sore throat"
+  },
+  {
+    "value": 64,
+    "label": "Sputum"
+  },
+  {
+    "value": 179,
+    "label": "Stomach burning"
+  },
+  {
+    "value": 28,
+    "label": "Stuffy nose"
+  },
+  {
+    "value": 138,
+    "label": "Sweating"
+  },
+  {
+    "value": 248,
+    "label": "Swollen glands in the armpits"
+  },
+  {
+    "value": 169,
+    "label": "Swollen glands on the neck"
+  },
+  {
+    "value": 211,
+    "label": "Tears"
+  },
+  {
+    "value": 16,
+    "label": "Tiredness"
+  },
+  {
+    "value": 115,
+    "label": "Tremor at rest"
+  },
+  {
+    "value": 144,
+    "label": "Unconsciousness, short"
+  },
+  {
+    "value": 101,
+    "label": "Vomiting"
+  },
+  {
+    "value": 181,
+    "label": "Vomiting blood"
+  },
+  {
+    "value": 56,
+    "label": "weakness"
+  },
+  {
+    "value": 23,
+    "label": "Weight gain"
+  },
+  {
+    "value": 30,
+    "label": "Wheezing"
+  }
+]
