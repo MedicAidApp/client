@@ -93,7 +93,7 @@ export const Navbar = () => {
                     title="Our product"
                     className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
                   >
-                    New Patient
+                    Current Patient
                   </a>
                 </Link>
               </li>

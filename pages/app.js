@@ -3,7 +3,7 @@ import { Stats } from "../components/Stats";
 import { Patients } from "../components/Patients";
 
 export default function app() {
-  const { user } = useUser();
+  const user = useUser();
   if (user) {
     return (
       <div className="m-4">

@@ -9,13 +9,18 @@
   },
   "dependencies": {
     "@auth0/nextjs-auth0": "^1.5.0",
+    "@chakra-ui/react": "^1.6.10",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
     "autoprefixer": "^10.3.7",
     "axios": "^0.23.0",
+    "framer-motion": "^4",
     "next": "11.1.2",
     "postcss": "^8.3.9",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-hook-form": "^7.17.4",
+    "react-hot-toast": "^2.1.1",
     "react-select": "^5.1.0",
     "tailwindcss": "^2.2.16"
   },
